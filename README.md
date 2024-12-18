@@ -41,4 +41,5 @@ While these projects are beginner-friendly, they provide a solid foundation for 
 ## How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Aswathks/21_Basic JS Projects.git
+git clone https://github.com/Aswathks/21_Basic-JS-Projects.git
+
