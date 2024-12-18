@@ -4,11 +4,11 @@
 			"path": "../app"
 		},
 		{
-			"name": "25-javascript-projects-for-interview-2024-part1",
-			"path": "../25-javascript-projects-for-interview-2024-part1"
+			"name": "21_Basic JS Projects",
+			"path": "../21-javascript-projects"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "25-javascript-projects-for-interview-2024-part1"
+		"liveServer.settings.multiRootWorkspaceName": "21_Basic JS Projects"
 	}
 }
